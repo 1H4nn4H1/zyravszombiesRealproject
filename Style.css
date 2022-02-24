@@ -7,4 +7,5 @@
 
 .topo{
 	display: flex;
+	align-content: row;
 }
