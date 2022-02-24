@@ -4,3 +4,7 @@
 	font-size: 100%;
 	text-decoration: none;
 }
+
+.topo{
+	display: flex;
+}
